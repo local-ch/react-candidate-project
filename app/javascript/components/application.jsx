@@ -1,9 +1,9 @@
 import React from 'react';
 
-import styles from 'styles/application';
+import 'styles/application';
 
 const Application = () => {
-  return <div className={ styles.application }></div>;
+  return <div className='application'></div>;
 }
 
 export default Application;
