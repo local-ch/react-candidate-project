@@ -1,4 +1,9 @@
 source 'https://rubygems.org'
+
+source 'https://gem.fury.io/localsearch' do
+  
+end
+
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.0'
