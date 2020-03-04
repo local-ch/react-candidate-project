@@ -8,7 +8,7 @@ gem 'rails', '~> 5.2.0'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'haml-rails'
 gem 'jbuilder', '~> 2.5'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'webpacker', '~> 3.6'
 
 group :development, :test do
